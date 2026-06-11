@@ -16,7 +16,7 @@ NC='\033[0m'
 INSTALL_DIR="/opt/migmig"
 SERVICE_NAME="migmig"
 PORT="${PORT:-3000}"
-REPO="REPO="https://github.com/itsmelipa/MigMig""
+REPO="https://github.com/itsmelipa/MigMig"
 
 print_banner() {
   echo ""
